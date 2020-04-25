@@ -1,6 +1,6 @@
 # CI Workflow for all pushes
 
-name: Run Gradle on PRs
+name: Run Gradle build on push
 on: push
 jobs:
   gradle:
