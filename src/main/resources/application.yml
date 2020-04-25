@@ -1,0 +1,6 @@
+hop:
+  name: "berlin"
+  outbound:
+    -
+      name: "london"
+      path: "localhost:3000"
